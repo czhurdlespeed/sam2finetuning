@@ -1,0 +1,3 @@
+[submodule "modalsam2"]
+	path = modalsam2
+	url = /data/marci/jwetzel2/sam2finetuning/modalsam2
