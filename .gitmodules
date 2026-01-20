@@ -1,3 +1,6 @@
 [submodule "modalsam2"]
 	path = modalsam2
-	url = /data/marci/jwetzel2/sam2finetuning/modalsam2
+	url = https://github.com/czhurdlespeed/modalsam2.git
+[submodule "sam2loranocodefinetuning"]
+	path = sam2loranocodefinetuning
+	url = https://github.com/czhurdlespeed/sam2loranocodefinetuning.git
