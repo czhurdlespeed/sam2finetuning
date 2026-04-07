@@ -4,3 +4,6 @@
 [submodule "sam2loranocodefinetuning"]
 	path = sam2loranocodefinetuning
 	url = https://github.com/czhurdlespeed/sam2loranocodefinetuning.git
+[submodule "sam2webappvoiceagent"]
+	path = sam2webappvoiceagent
+	url = git@github.com:czhurdlespeed/sam2webappvoiceagent.git
