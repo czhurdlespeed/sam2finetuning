@@ -1,9 +1,12 @@
 [submodule "modalsam2"]
 	path = modalsam2
 	url = https://github.com/czhurdlespeed/modalsam2.git
+	branch = main
 [submodule "sam2loranocodefinetuning"]
 	path = sam2loranocodefinetuning
 	url = https://github.com/czhurdlespeed/sam2loranocodefinetuning.git
+	branch = main
 [submodule "sam2webappvoiceagent"]
 	path = sam2webappvoiceagent
 	url = git@github.com:czhurdlespeed/sam2webappvoiceagent.git
+	branch = main
