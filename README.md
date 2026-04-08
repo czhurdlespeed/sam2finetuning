@@ -8,12 +8,11 @@
 [![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript_5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch_2.5-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Modal](https://img.shields.io/badge/Modal_Labs-6C47FF?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)](https://modal.com/)
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 <br />
 
-[**Launch App**](https://nocodefinetuning.calvinwetzel.dev/) · [**LinkedIn**](https://www.linkedin.com/in/calvinwetzel/) · [**Report Bug**](https://github.com/czhurdlespeed/sam2finetuning/issues)
+[**Visit Webpage 👋**](https://nocodefinetuning.calvinwetzel.dev/) · [**LinkedIn**](https://www.linkedin.com/in/calvinwetzel/) · [**Report Bug 🪳**](https://github.com/czhurdlespeed/sam2finetuning/issues)
 
 <br />
 
@@ -27,20 +26,6 @@
 
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  Replace the block below with your video embed when ready  ║ -->
-<!-- ║  Example: [![Demo](thumbnail.png)](https://youtu.be/...)   ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-<table>
-  <tr>
-    <td align="center" width="640" height="360" style="background-color:#1a1a2e; border-radius:12px;">
-      <br /><br /><br />
-      <img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F_Demo_Video-Coming_Soon-8A2BE2?style=for-the-badge&labelColor=1a1a2e" alt="Demo video coming soon" />
-      <br /><br /><br /><br />
-    </td>
-  </tr>
-</table>
 
 </div>
 
